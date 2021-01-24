@@ -10,7 +10,7 @@
 
 
 **📫 Contact:**  
-📫 dode777.dev@gmail.com
+dode777.dev@gmail.com
 
 
 **📝 Github Page:**  
