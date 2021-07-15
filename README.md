@@ -19,6 +19,7 @@
 #### **📝 공부 블로그:**  
 [https://velog.io/@dode](https://velog.io/@dode)
 
+끊임 없이 탐구하고 공부하는 삶을 살고 싶습니다.
 
 #### **📫 Contact:**  
 dode777.dev@gmail.com
