@@ -16,8 +16,8 @@
 
 <br/>
 
-#### **📝 Github Page:**  
-[https://dode777.github.io/](https://dode777.github.io/)
+#### **📝 공부 블로그:**  
+[https://velog.io/@dode](https://velog.io/@dode)
 
 
 #### **📫 Contact:**  
