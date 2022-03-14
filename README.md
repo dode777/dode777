@@ -4,9 +4,6 @@
 현재는 둥지 개발 팀에서 다양한 프로젝트를 진행하며 NodeJS를 배우고 있습니다.
 
 
-💻 [둥지 개발팀](https://github.com/Doong-Ji)
-
-
 ---
 
 ### **📚 Interested In:**  
@@ -15,6 +12,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
+
+💻 [둥지 개발팀](https://github.com/Doong-Ji)
 
 #### **📝 공부 블로그:**  
 [https://velog.io/@dode](https://velog.io/@dode)
