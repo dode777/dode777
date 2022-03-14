@@ -3,6 +3,8 @@
 
 현재는 둥지 개발 팀에서 다양한 프로젝트를 진행하며 NodeJS를 배우고 있습니다.
 
+💻 [둥지 개발팀](https://github.com/Doong-Ji)
+
 
 ---
 
@@ -10,10 +12,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br/>
-
-💻 [둥지 개발팀](https://github.com/Doong-Ji)
 
 <br/>
 
